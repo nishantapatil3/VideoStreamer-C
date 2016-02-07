@@ -1,0 +1,2 @@
+all:
+	gcc livestreaming.c
